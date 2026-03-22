@@ -1,0 +1,8 @@
+langchain
+langchain-community
+langchain-siliconflow
+chromadb
+python-dotenv
+pypdf
+python-docx
+langchain-text-splitters
